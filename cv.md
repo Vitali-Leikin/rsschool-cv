@@ -14,7 +14,7 @@ I do my best to get things done.
 
 * Objective-C
 * Swift
-* CocoaPods
+* CocoaPod
 
 **5. Code examples**
 
