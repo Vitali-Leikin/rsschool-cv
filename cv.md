@@ -64,6 +64,7 @@ To gain experience in programming, I attended various courses and readed  books.
 Successfully completed the Siemens Cerberus, Honewell courses on security systems.
 I also completed the Institute IBA courses with a degree in System Administrator.*
 
-**8. Language**
+**8.  Language**
+
 I studied English at school and at university.
 Now I attend English courses.
